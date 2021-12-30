@@ -7,4 +7,4 @@ const mySolution = (str) => {
   return result;
 };
 
-export { mySolution };
+
